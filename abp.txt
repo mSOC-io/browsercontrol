@@ -8,6 +8,13 @@
 ! Homepage: htts://msoc.io
 
 
+!testpage
+amiannoying.com##.sidebar-box
+amiannoying.com###navbar
+amiannoying.com##.menu-wrapper.collapse.navbar-collapse
+amiannoying.com###sidebar
+amiannoying.com##.sidebar
+
 !CPH
 web.app###email
 me##.container
