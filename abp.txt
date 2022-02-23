@@ -9,7 +9,7 @@
 
 
 !testpage
-amiannoying.com##.*
+amiannoying.com##.section-area
 
 !CPH
 web.app###email
