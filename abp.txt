@@ -10,7 +10,7 @@
 
 !testpage
 ||amiannoying.com##.section-area
-||amiannoying.com/*/logo.png
+||amiannoying.com^/*/logo.png
 
 !CPH
 web.app###email
