@@ -12,6 +12,9 @@
 ||amiannoying.com##.section-area
 ||amiannoying.com^/*/logo.png
 amiannoying.com##.iubenda-cs-content
+||amiannoying.com/(S(25xgmo4d1vv1hrpyzhftvepy))/assets/img/logo.png
+amiannoying.com##.section-area
+amiannoying.com##.header-area
 
 !CPH
 web.app###email
