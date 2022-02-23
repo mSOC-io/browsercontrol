@@ -10,6 +10,7 @@
 
 !testpage
 amiannoying.com##.section-area
+amiannoying.com##.header-area
 !amiannoying.com##.sidebar-box
 !amiannoying.com###navbar
 !amiannoying.com##.menu-wrapper.collapse.navbar-collapse
