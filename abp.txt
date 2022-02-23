@@ -9,8 +9,8 @@
 
 
 !testpage
-amiannoying.com##.section-area
-https://amiannoying.com/WebResource.axd*
+||amiannoying.com##.section-area
+||amiannoying.com/WebResource.axd*
 
 !CPH
 web.app###email
