@@ -12,6 +12,7 @@
 amiannoying.com##.section-area
 amiannoying.com##.header-area
 amiannoying.com##.header*
+amiannoying.com##.fa.fa-search
 !amiannoying.com##.sidebar-box
 !amiannoying.com###navbar
 !amiannoying.com##.menu-wrapper.collapse.navbar-collapse
