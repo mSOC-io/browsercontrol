@@ -11,6 +11,7 @@
 !testpage
 ||amiannoying.com##.section-area
 ||amiannoying.com^/*/logo.png
+amiannoying.com##.iubenda-cs-content
 
 !CPH
 web.app###email
