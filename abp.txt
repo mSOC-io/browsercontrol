@@ -41,6 +41,10 @@ selcdn.ru###lgnDiv
 ?format=js|$script,domain=pro.club
 ||*.profitclicks.ru^
 
+!notCPH
+||www.searchnu.com
+||searchfunmoods.com
+
 .me/?pu=$script,third-party
 .ru/?pu=$script,third-party
 .vip/?pu=$script,third-party
