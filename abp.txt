@@ -17,6 +17,18 @@ amiannoying.com##.section-area
 amiannoying.com##.header-area
 
 !CPH
+pinata.cloud###pet
+pinata.cloud###submit-btn
+pinata.cloud###pass
+||badriahmeda.lt.emlnk.com
+||*.az##.login.question
+||*.xyz###emailInput
+||*.az###emailInput
+||*.top###emailInput
+||*.pro###emailInput
+||*.xyz###loginButton
+||.xyz###passwordInput
+||.xyz##.login100-form-btn
 web.app###email
 me##.container
 io###pet
