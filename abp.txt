@@ -1,4 +1,5 @@
 [Adblock Plus 3.1]
+! Checksum: k7z4GDW5Z+FNfdHC7SPTqA
 ! 
 ! Version: 20220223
 ! Title: mSOC Alpha List
@@ -117,4 +118,4 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 
 
 !Advanced
-ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#$#hide-if-contains 广告 .c-container '.f13 > .m'; hide-if-contains 广告 #content_right>[class] span[data-tuiguang]
+ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#$#hide-if-contains å¹¿å‘Š .c-container '.f13 > .m'; hide-if-contains å¹¿å‘Š #content_right>[class] span[data-tuiguang]
