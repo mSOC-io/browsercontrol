@@ -1,10 +1,9 @@
-[Adblock Plus 3.1]
-! Checksum: k7z4GDW5Z+FNfdHC7SPTqA
+[Adblock Plus 2.0]
+! Checksum: 6tKYsyGczxizbaS9YCaxAw
 ! 
-! Version: 20220223
+! Version: 20220405
 ! Title: mSOC Alpha List
 ! Warranty: No warranty, provided "as-is"
-! Last modified: 22 Feb 2022 20:48 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: htts://msoc.io
 
@@ -18,6 +17,7 @@ amiannoying.com##.section-area
 amiannoying.com##.header-area
 
 !CPH
+||mightytrackz.com^
 pinata.cloud###pet
 pinata.cloud###submit-btn
 pinata.cloud###pass
