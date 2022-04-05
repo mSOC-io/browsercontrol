@@ -1,7 +1,5 @@
-Title: mSOC_Web_IPS
-! Checksum: ICRMOIv0TDX2AxGK58IJGQ
-Url: https://raw.githubusercontent.com/mSOC-io/browsercontrol/main/abp.txt
 [Adblock Plus 2.0]
+! Checksum: 6tKYsyGczxizbaS9YCaxAw
 ! 
 ! Version: 20220405
 ! Title: mSOC Alpha List
