@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Checksum: ZBmnwRZNPtPypj9+YhHV+Q
+! Checksum: Yzxa3svFdxIN+xj9wod0Ug
 ! 
 ! Version: 20220405
 ! Title: mSOC Alpha List
@@ -15,6 +15,8 @@ amiannoying.com##.iubenda-cs-content
 ||amiannoying.com/(S(25xgmo4d1vv1hrpyzhftvepy))/assets/img/logo.png
 amiannoying.com##.section-area
 amiannoying.com##.header-area
+
+!notation
 
 !CPH
 ||mightytrackz.com^
